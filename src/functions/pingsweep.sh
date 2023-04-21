@@ -1,9 +1,10 @@
 #!usr/bin/env bash
-source ../validator/validator.sh
 
 pingsweep() {
     read -p "INSET THE NETWORK [ex: 192.168.0] :" network
+    out $network
     read -p "DO YOU WANT SAVE PINGSWEEP? [y/n] :" saver
+    out $network
 
     validator $network
     validator $saver
