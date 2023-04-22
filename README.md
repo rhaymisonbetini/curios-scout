@@ -29,12 +29,12 @@ CuriousScout is a project developed for pentest and cyber security studies.
 
 ## Today the application has 6 functionalities.
 
-"[1] - PINGSWEEP
-"[2] - BROKEN HASH
-"[3] - SEARCH FOR SUBDOMAINS
-"[4] - SEARCH FOR DIR AND FILES
-"[5] - PARSINGHTML
-"[6] - PORTSCAN"
+"[1] - PINGSWEEP <br/>
+"[2] - BROKEN HASH <br/>
+"[3] - SEARCH FOR SUBDOMAINS <br/>
+"[4] - SEARCH FOR DIR AND FILES <br/>
+"[5] - PARSINGHTML <br/>
+"[6] - PORTSCAN <br/>
 
 ## Running the script.
 
