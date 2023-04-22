@@ -31,3 +31,7 @@ existWordListFile() {
 readWordListFile() {
     [[ ! -r "$1" ]] && echo "WORDLIST CAN NOT BE READ, VERIFY PERMISSIONS IN YOUR SISTEM" && exit 0
 }
+
+validatorSearchSubdomainOptions(){
+    [[ $# -ne 2 ]] && echo "PLEASE INFORM THE CORRECT PARAMS" && exit 0
+}
