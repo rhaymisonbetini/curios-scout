@@ -1,4 +1,4 @@
-# HOST PORT SCAN
+# CURIOUSCOUT
 CuriousScout is a project developed for pentest and cyber security studies.
 
 <p align="center">
