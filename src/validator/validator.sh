@@ -35,3 +35,7 @@ readWordListFile() {
 validatorSearchSubdomainOptions(){
     [[ $# -ne 2 ]] && echo "PLEASE INFORM THE CORRECT PARAMS" && exit 0
 }
+
+existCurl(){
+    [[ ! -x "$(which curl)" ]] && sudo apt-get install curl
+}
