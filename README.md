@@ -24,7 +24,7 @@ CuriousScout is a project developed for pentest and cyber security studies.
 </p>
 
 <p align="center">
-   <img src="https://github.com/rhaymisonbetini/hostportscan/blob/main/assets/sh.png">
+   <img src="https://github.com/rhaymisonbetini/curios-scout/blob/main/src/assets/Screenshot%20from%202023-04-22%2016-06-01.png">
 </p>
 
 ## Today the application has 6 functionalities.
