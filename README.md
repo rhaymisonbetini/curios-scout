@@ -41,7 +41,7 @@ CuriousScout is a project developed for pentest and cyber security studies.
 Download the project repository.
 
 ```shell
-https://github.com/rhaymisonbetini/curios-scout.git
+git clone https://github.com/rhaymisonbetini/curios-scout.git
 ```
 Provide execute permission on the file
 
